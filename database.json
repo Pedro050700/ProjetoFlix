@@ -1,0 +1,43 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "username": "pedro2020",
+            "email": "pedro@gmail.com",
+            "password": "1234"
+        },
+        {
+            "id": 2,
+            "username": "gabriel2020",
+            "email": "gabriel@gmail.com",
+            "password": "1234"
+        }
+    ],
+    "profiles": [
+        {
+            "id": 1,
+            "username": "pedro",
+            "picture": "user1.png"
+        },
+        {
+            "id": 2,
+            "username": "batman",
+            "picture": "batman.jpg"
+        },
+        {
+            "id": 3,
+            "username": "coringa",
+            "picture": "coringa.png"
+        },
+        {
+            "id": 4,
+            "username": "novo",
+            "picture": "arrow.png"
+        },
+        {
+            "id": 5,
+            "username": "novo",
+            "picture": "add.png"
+        }
+    ]
+}
