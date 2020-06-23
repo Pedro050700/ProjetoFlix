@@ -14,7 +14,7 @@ export const Footer = styled.footer`
 `;
 
 export const Wrapper = styled.div`
-    position: fixed;
+    /* position: fixed; */
     width: 100%;
     height: 100%;
     background-image: url(${fundo});

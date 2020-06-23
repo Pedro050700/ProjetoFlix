@@ -1,5 +1,6 @@
 import React from 'react';
 import { FaSpinner } from 'react-icons/all';
+import { NavLink } from "react-router-dom";
 
 import { toast } from 'react-toastify';
 import api from '../../services/api';
@@ -148,13 +149,14 @@ function SignIn() {
                                     ></img>
                                     Conectar com Facebook
                                 </p>
+            
                             </a>
                         </Facebook>
 
                         <Novo>
                             <p>
                                 Novo por aqui?
-                                <a href=""> Assine agora.</a>
+                                <NavLink to="/signup">Assine agora</NavLink>
                             </p>
                         </Novo>
 
